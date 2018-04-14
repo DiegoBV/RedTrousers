@@ -1,0 +1,31 @@
+﻿0
+Modelo 007: BIP. BONITAS BOTAS. BIP
+*
+1
+Modelo Senior: Escucha, hay un BIP problema. 
+Las polillas se han metido dentro de algunos robots y se están comportando raro. 
+¿Podrías reducirlos? Están en el huerto y en el muelle.
+*
+2
+Modelo 626: Miau. Digo BIP.
+*
+3
+Modelo 101: Crees que las polillas se comerán nuestra cosecha? 
+*
+4
+Modelo 042: Hace tiempo que no conseguimos hacer que nuestro barco surque las aguas.
+Necesitamos caca de mono para ello. Pero adivina cuál es nuestro combustible...
+*
+5
+Modelo Morse: BIIIP BIP - BIP - BIIIP BIP BIIIP BIP -
+BIP - BIP BIP BIP - BIP BIP -BIIIP - BIIIP BIIIP BIIIP -
+BIP BIP BIP - BIP BIIIP - BIIIP BIP - BIP BIIIP - 
+BIIIP BIP BIIIP BIP - BIP BIP - BIIIP BIIIP BIIIP - BIIIP BIP
+*
+6
+Modelo 000: 01100001 01100011 01101111 01101101 01100101 
+01110010 11000011 10110001 01100001 01101101
+*
+7
+Modelo 666: Me gustaría saber quién ha programado a esas polillas tan molestas.
+*

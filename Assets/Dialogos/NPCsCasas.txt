@@ -1,0 +1,25 @@
+﻿0
+"Emma, la reina de las polillas se ha enterado del poder de tus pantalones y se los ha llevado. 
+Coge los guantes de la mesa y ven a verme a Villa Refrescante, al sur de aquí.
+Tráete la caja de herramientas si puedes. Te quiere, tu padre."
+*
+1
+Diego: No pienso salir hasta que no termine este proyecto.
+¿Cómo? Que hemos sido invadidos por polillas gigantes? Ni me he dado cuenta.
+*
+2
+Kai: No sé si me dan mas alergia las flores o las polillas.
+¿O era asco?
+*
+3
+Cintia: Tu padre es amigo mío desde hace tiempo, 
+por eso le dije que viniera a ver este maletín cuando me lo encontré en la nieve.
+*
+4
+Ramón: Necesito comerme algo bien caliente.
+*
+5
+Héctor: ¿Cuando va a llegar el maldito paquete de Amacloth? Seguro que se lo han comido las polillas.
+*
+6
+*

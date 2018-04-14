@@ -1,0 +1,39 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'UnionDerecha_mesh_0001.obj'
+
+# Vertices (Count = 16)
+v -256 -2496 0
+v -272 -2496 0
+v -272 -2480 0
+v -256 -2480 0
+v -256 -2512 0
+v -272 -2512 0
+v -272 -2496 0
+v -256 -2496 0
+v -256 -2528 0
+v -272 -2528 0
+v -272 -2512 0
+v -256 -2512 0
+v -256 -2624 0
+v -272 -2624 0
+v -272 -2608 0
+v -256 -2608 0
+
+# Texture cooridinates (Count = 4)
+vt 0.0001220703 0.0001220703
+vt 0.9998779 0.0001220703
+vt 0.9998779 0.9998779
+vt 0.0001220703 0.9998779
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g UnionDerecha_mesh_0001
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+f 13/4/1 14/3/1 15/2/1 16/1/1
+
